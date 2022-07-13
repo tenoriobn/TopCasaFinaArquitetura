@@ -1,2 +1,2 @@
 # TopCasaFinaArquitetura
-Projeto feito durante o curso de responsividade da Alura.
+Projeto feito durante o curso de Bootstrap da Alura.
