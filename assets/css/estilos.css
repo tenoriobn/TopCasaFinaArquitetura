@@ -50,6 +50,10 @@ header {
     margin-bottom: 0;
 }
 
+.carousel-imagem {
+    width: 100%;
+}
+
 .form-control {
     padding: 6px 12px 6px 2px;
 }
